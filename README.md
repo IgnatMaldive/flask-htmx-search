@@ -1,8 +1,8 @@
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FIgnatMaldive%2Fflask-vercel-serverless-functions)
+demo: https://flask-htmx-search.vercel.app/
 
 # HTMX + Flask + Vercel
 
-Sample Control Panel using minimal HTMX/Flask stack, hosted in Vercel.
+Sample search Panel using minimal HTMX/Flask stack, hosted in Vercel.
 This example uses Flask 3 on Vercel with Serverless Functions using the [Python Runtime](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/python).
 
 ## Demo
@@ -16,7 +16,7 @@ This example uses the Web Server Gateway Interface (WSGI) with Flask to enable h
 ## Running Locally
 
 ```bash
-git clone https://github.com/IgnatMaldive/flask-vercel-serverless-functions.git
+git clone this repo
 cd api
 python index.py
 ```
@@ -27,4 +27,3 @@ Your Flask application is now available at `http://localhost:5000`.
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FIgnatMaldive%2Fflask-vercel-serverless-functions)
